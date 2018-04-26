@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="100"
+   height="20"
+   id="svg2">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#000000;
+      }
+      .ColorScheme-Background{
+        color:#7f7f7f;
+      }
+      .ColorScheme-ViewText {
+        color:#000000;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#7f7f7f;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#000000;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }
+    </style>
+  </defs>
+  
+  <g
+     transform="matrix(1.3,0,0,1.3,45.733583,17.657219)"
+     id="hover-center">
+    <rect
+       width="20"
+       height="20"
+       x="-15.179679"
+       y="-18.197861"
+       id="rect3079"
+       style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       d="M 45,6 A 6,6 0 1 1 33,6 6,6 0 1 1 45,6 z"
+       transform="matrix(1.1538463,0,0,1.1538462,-50.281992,-15.215551)"
+       id="path3066"
+       style="opacity:1;fill:#9399a0;fill-opacity:1;stroke:none"
+       class="ColorScheme-ViewHover" />
+    <path
+       d="m -1.9995539,-9.5991541 -3.2935024,3.4987302 -3.1518621,-3.3519306"
+       id="path4829-4-4-8-2"
+       style="fill:none;stroke:#ffffff;stroke-width:1.71467423;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+  <g
+     transform="matrix(1.3,0,0,1.3,123.73358,17.657219)"
+     id="hover-inactive-center">
+    <rect
+       width="20"
+       height="20"
+       x="-15.179679"
+       y="-18.197861"
+       id="rect3853"
+       style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       d="M 45,6 A 6,6 0 1 1 33,6 6,6 0 1 1 45,6 z"
+       transform="matrix(1.1538463,0,0,1.1538462,-50.281992,-15.215551)"
+       id="path3857"
+       style="opacity:1;fill:#9399a0;fill-opacity:1;stroke:none"
+       class="ColorScheme-ViewHover" />
+    <path
+       d="m -1.9995539,-9.5991541 -3.2935024,3.4987302 -3.1518621,-3.3519306"
+       id="path3859"
+       style="fill:none;stroke:#ffffff;stroke-width:1.71467423;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>
